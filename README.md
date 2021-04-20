@@ -18,7 +18,7 @@
 __Языки__: JavaScript, TypeScript, python  
 __Технологии JS__: ReactJS, RxJS, Redux, gulp  
 __Технологии python__: flask, flask-restful, SQLAlchemy, PyQt5, BeautifulSoup  
-__Технологии для верстки__: ![HTML](https://img.shields.io/badge/-HTML-090909?logo=html5) ![CSS](https://img.shields.io/badge/-HTML-090909?logo=css3), svg, sass  
+__Технологии для верстки__: ![HTML](https://img.shields.io/badge/-HTML-090909?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-090909?logo=css3), ![SVG](https://img.shields.io/badge/-SVG-090909?logo=svg) ![SASS](https://img.shields.io/badge/-SASS-090909?logo=sass) 
 
 ## Краткий экскурс по проектам
 * [**IDC-task-3/schoolProject**](https://github.com/Super-Cereal/IDC-task-3/tree/schoolProject) модифицированный проект по заданиям ШРИ 2021; Сайт, визуализирующий статистику некоторого коллектива за заданный промежуток времени (js + ts + rxjs + sass)  
