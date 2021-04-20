@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Super-Cereal
-![Beautiful img](https://b.radikal.ru/b19/2104/0b/97e363d59038.jpg)
+![Beautiful img](https://d.radikal.ru/d22/2104/07/34e8d79b32c7.jpg)
 
 ## Обо мне
 Мое имя - Егор Кучинский, я начинающий Fullstack-разработчик из Бугульмы, Татарстан.  
