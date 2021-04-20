@@ -22,7 +22,7 @@ __Технологии JS__:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-090909?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-090909?logo=reactivex), Redux, gulp  
 
 __Технологии python__:  
-flask, flask-restful, SQLAlchemy, PyQt5, BeautifulSoup  
+![FLASK](https://img.shields.io/badge/-FLASK-090909?logo=flask) ![PyQt](https://img.shields.io/badge/-PyQt-090909?logo=qt) BeautifulSoup, SQLAlchemy  
 
 __Технологии для верстки__:  
 ![HTML](https://img.shields.io/badge/-HTML-090909?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-090909?logo=css3) ![SVG](https://img.shields.io/badge/-SVG-090909?logo=svg) ![SASS](https://img.shields.io/badge/-SASS-090909?logo=sass)  
