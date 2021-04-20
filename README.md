@@ -1,7 +1,14 @@
 # Hi there 👋
+### Обо мне
+...
 
-## Краткий экскурс по проектам
+### Текущие знания
+__Языки__: JavaScript, TypeScript, python
+__Технологии JS__: ReactJS, RxJS, Redux, gulp
+__Технологии python__: flask, flask-restful, SQLAlchemy, PyQt5, BeautifulSoup
+__Технологии для верстки__: html, css, sass
 
+### Краткий экскурс по проектам
 1) [**Duck-Hunt**](https://github.com/Super-Cereal/Duck-Hunt) - одноименная игра (python + pygame)
 2) [**Archiver**](https://github.com/Super-Cereal/Archiver) - системное приложение-архиватор (python + PyQt5)
 3) [**Electives**](https://github.com/Super-Cereal/Electives) - сайт на котором учителя могут создавать факультативы и назначать участникам этих факультативов различные задания, доступен api (python + flask + SQLAlchemy + Werkzeug + flask-restful)
