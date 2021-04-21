@@ -27,7 +27,7 @@ __Технологии для верстки__:
 ![HTML](https://img.shields.io/badge/-HTML-353535?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3) ![SVG](https://img.shields.io/badge/-SVG-353535?logo=svg) ![SASS](https://img.shields.io/badge/-SASS-353535?logo=sass)  
 
 ## Краткий экскурс по проектам
-* [**IDC-task-3/schoolProject**](https://github.com/Super-Cereal/IDC-task-3/tree/schoolProject) модифицированный проект по заданиям ШРИ 2021; Сайт, визуализирующий статистику некоторого коллектива за заданный промежуток времени (js + ts + rxjs + sass)  
+* [**IDC-task-3/schoolProject**](https://github.com/Super-Cereal/IDC-task-3/tree/schoolProject) модифицированный проект по заданиям Яндекс.ШРИ 2021; Сайт, визуализирующий статистику некоторого коллектива за заданный промежуток времени (js + ts + rxjs + sass)  
 * [**Electives**](https://github.com/Super-Cereal/Electives) - сайт на котором учителя могут создавать факультативы и назначать участникам этих факультативов различные задания, доступен api (python + flask + SQLAlchemy + Werkzeug + flask-restful)  
 * [**Duck-Hunt**](https://github.com/Super-Cereal/Duck-Hunt) - одноименная игра (python + pygame)  
 * [**Map-Search**](https://github.com/Super-Cereal/Map-Search) - системное приложение, позволяет искать адреса или координаты на карте мира, а так же перемещаться по ней (Yandex-API + python + PyQt5)  
