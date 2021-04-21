@@ -9,13 +9,13 @@
 1) * Впервые я познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `api`. Но самое главное я научился бекэнд разработке на `flask`.
    * Побывал на программе Сириус.Регионы 2019, изучив там алгоритмы.
    * Cтал призером Татарстана на ВсОШ 2019 по информатике.  
-3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML Academy](https://img.shields.io/badge/-HTML_Academy-302683?logo=html_academy), изучив на чудесном уровне `HTML`, `css`, `svg` и нативный `js`.  
+3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML Academy](https://img.shields.io/badge/-HTML_Academy-302683?logo=htmlacademy), изучив на чудесном уровне `HTML`, `css`, `svg` и нативный `js`.  
 4) * Затем и по настоящее время я прохожу огромный курс по `ReactJS` на канале `It-kamasutra`, так как стремлюсь стать хорошим фронтенд-разработчиком.  
    * Вместе с этим я тружусь как бекэнд разработчик в стартапе моей команды, пишу к нему `REST-Api` с хорошо оформленной документацией, изучаю `MySQL`.
 
 ## Текущие знания
 __Языки и технологии__:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-151515?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript) ![Python](https://img.shields.io/badge/-Python-000000?logo=python) ![Git](https://img.shields.io/badge/-Git-000000?logo=git) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+![JavaScript](https://img.shields.io/badge/-JavaScript-353535?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript) ![Python](https://img.shields.io/badge/-Python-000000?logo=python) ![Git](https://img.shields.io/badge/-Git-000000?logo=git) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 
 __Технологии JS__:  
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) ![Gulp](https://img.shields.io/badge/-Gulp-000000?logo=gulp)
