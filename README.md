@@ -15,16 +15,16 @@
 
 ## Текущие знания
 __Языки и технологии__:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript) ![Python](https://img.shields.io/badge/-Python-000000?logo=python) ![Git](https://img.shields.io/badge/-Git-000000?logo=git) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 
 __Технологии JS__:  
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000000?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) ![Gulp](https://img.shields.io/badge/-Gulp-000000?logo=gulp)
 
 __Технологии python__:  
 ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask) ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?logo=qt) BeautifulSoup, SQLAlchemy  
 
 __Технологии для верстки__:  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3) ![SVG](https://img.shields.io/badge/-SVG-FFB13B?logo=svg) ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass)  
+![HTML](https://img.shields.io/badge/-HTML-000000?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3) ![SVG](https://img.shields.io/badge/-SVG-000000?logo=svg) ![SASS](https://img.shields.io/badge/-SASS-000000?logo=sass)  
 
 ## Краткий экскурс по проектам
 * [**IDC-task-3/schoolProject**](https://github.com/Super-Cereal/IDC-task-3/tree/schoolProject) модифицированный проект по заданиям ШРИ 2021; Сайт, визуализирующий статистику некоторого коллектива за заданный промежуток времени (js + ts + rxjs + sass)  
