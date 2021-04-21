@@ -21,7 +21,7 @@ __Технологии JS__:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) ![Gulp](https://img.shields.io/badge/-Gulp-353535?logo=gulp)
 
 __Технологии python__:  
-![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask) ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?logo=qt) BeautifulSoup, SQLAlchemy  
+![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask) ![PyQt](https://img.shields.io/badge/-PyQt-353535?logo=qt) BeautifulSoup, SQLAlchemy  
 
 __Технологии для верстки__:  
 ![HTML](https://img.shields.io/badge/-HTML-353535?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3) ![SVG](https://img.shields.io/badge/-SVG-353535?logo=svg) ![SASS](https://img.shields.io/badge/-SASS-353535?logo=sass)  
