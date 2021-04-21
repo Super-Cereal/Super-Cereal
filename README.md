@@ -18,7 +18,7 @@ __Языки и технологии__:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
 __Технологии JS__:  
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-090909?logo=reactivex), Redux, gulp  
+![ReactJS](https://img.shields.io/badge?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-090909?logo=reactivex), Redux, gulp  
 
 __Технологии python__:  
 ![FLASK](https://img.shields.io/badge/-FLASK-090909?logo=flask) ![PyQt](https://img.shields.io/badge/-PyQt-090909?logo=qt) BeautifulSoup, SQLAlchemy  
