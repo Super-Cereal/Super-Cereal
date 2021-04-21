@@ -9,16 +9,16 @@
 1) * Впервые я познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `api`. Но самое главное я научился бекэнд разработке на `flask`.
    * Побывал на программе Сириус.Регионы 2019, изучив там алгоритмы.
    * Cтал призером Татарстана на ВсОШ 2019 по информатике.  
-3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML-Academy](https://img.shields.io/badge/-"HTML-Academy"-ff0000?logo=html_academy), изучив на чудесном уровне `HTML`, `css`, `svg` и нативный `js`.  
+3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML-Academy](https://img.shields.io/badge/-"HTML-Academy"-302683?logo=htmlacademy), изучив на чудесном уровне `HTML`, `css`, `svg` и нативный `js`.  
 4) * Затем и по настоящее время я прохожу огромный курс по `ReactJS` на канале `It-kamasutra`, так как стремлюсь стать хорошим фронтенд-разработчиком.  
    * Вместе с этим я тружусь как бекэнд разработчик в стартапе моей команды, пишу к нему `REST-Api` с хорошо оформленной документацией, изучаю `MySQL`.
 
 ## Текущие знания
-__Языки__:  
-JavaScript, TypeScript, python  
+__Языки и технологии__:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
 __Технологии JS__:  
-![ReactJS](https://img.shields.io/badge/-ReactJS-090909?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-090909?logo=reactivex), Redux, gulp  
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-090909?logo=reactivex), Redux, gulp  
 
 __Технологии python__:  
 ![FLASK](https://img.shields.io/badge/-FLASK-090909?logo=flask) ![PyQt](https://img.shields.io/badge/-PyQt-090909?logo=qt) BeautifulSoup, SQLAlchemy  
