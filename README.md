@@ -28,6 +28,7 @@ __Технологии для верстки__:
 
 ## Краткий экскурс по проектам
 * [**IDC-task-3/schoolProject**](https://github.com/Super-Cereal/IDC-task-3/tree/schoolProject) модифицированный проект по заданиям Яндекс.ШРИ 2021; Сайт, визуализирующий статистику некоторого коллектива за заданный промежуток времени (js + ts + rxjs + sass)  
+* [**todo-React**](https://github.com/Super-Cereal/todo-React) Приложение-сайт, позволяющее составлять списки своих обязанностей или занятий на определенные даты (React.js + redux + sass)
 * [**Electives**](https://github.com/Super-Cereal/Electives) - сайт на котором учителя могут создавать факультативы и назначать участникам этих факультативов различные задания, доступен api (python + flask + SQLAlchemy + Werkzeug + flask-restful)  
 * [**Duck-Hunt**](https://github.com/Super-Cereal/Duck-Hunt) - одноименная игра (python + pygame)  
 * [**Map-Search**](https://github.com/Super-Cereal/Map-Search) - системное приложение, позволяет искать адреса или координаты на карте мира, а так же перемещаться по ней (Yandex-API + python + PyQt5)  
