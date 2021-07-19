@@ -7,10 +7,10 @@
 1) * Впервые я познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex&style=plastic). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `api`. Но самое главное я научился бекэнд разработке на ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask&style=plastic).
    * Побывал на программе Сириус.Регионы 2019, изучив там алгоритмы.
    * Cтал призером Татарстана на ВсОШ 2019 по информатике.  
-3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML Academy](https://img.shields.io/badge/-HTML_Academy-302683?logo=htmlacademy), изучив на чудесном уровне ![HTML](https://img.shields.io/badge/-HTML-353535?logo=html5), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3), ![SVG](https://img.shields.io/badge/-SVG-353535?logo=svg) и нативный ![JavaScript](https://img.shields.io/badge/-JS-353535?logo=javascript).  
-4) Затем я освоил огромный курс по ![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react) на канале ![It-kamasutra](https://img.shields.io/badge/-It_kamasutra-d00?logo=youtube).
+3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML Academy](https://img.shields.io/badge/-HTML_Academy-302683?logo=htmlacademy&style=plastic), изучив на чудесном уровне ![HTML](https://img.shields.io/badge/-HTML-353535?logo=html5&style=plastic), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=plastic), ![SVG](https://img.shields.io/badge/-SVG-353535?logo=svg&style=plastic) и нативный ![JavaScript](https://img.shields.io/badge/-JS-353535?logo=javascript&style=plastic).  
+4) Затем я освоил огромный курс по ![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react&style=plastic) на канале ![It-kamasutra](https://img.shields.io/badge/-It_kamasutra-d00?logo=youtube&style=plastic).
 5) * В настоящее я тружусь как бекэнд разработчик в стартапе моей команды, пишу к нему `REST-Api`.
-   * Помимо этого я поступил в ![Школа разработки интерфейсов](https://img.shields.io/badge/-Школу_разработки_интерфейсов-ff0000?logo=yandex), где все лето буду перенимать опыт топ-разработчиков Яндекса и всех поступивших вместе со мной специалистов.
+   * Помимо этого я поступил в ![Школа разработки интерфейсов](https://img.shields.io/badge/-Школу_разработки_интерфейсов-ff0000?logo=yandex&style=plastic), где все лето буду перенимать опыт топ-разработчиков Яндекса и всех поступивших вместе со мной специалистов.
 
 ## Текущие знания
 __Языки и технологии__:  
