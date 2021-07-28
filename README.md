@@ -15,7 +15,7 @@
 ## Текущие знания
 __Языки и технологии__:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-353535?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-353535?logo=typescript) 
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex) ![Python](https://img.shields.io/badge/-Python-353535?logo=python) 
+![NodeJS](https://img.shields.io/badge/-NodeJS-B7178C?logo=nodejs) ![Python](https://img.shields.io/badge/-Python-353535?logo=python) 
 ![Git](https://img.shields.io/badge/-Git-353535?logo=git) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 
 __Технологии JS__:  
