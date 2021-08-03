@@ -6,7 +6,7 @@
 ### Мой путь как программиста
 1) * Впервые я познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex&style=plastic). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `api`. Но самое главное я научился бекэнд разработке на ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask&style=plastic)
    * Побывал на программе Сириус.Регионы 2019, изучив там алгоритмы.
-   * Cтал призером Татарстана на ВсОШ 2019 по информатике.  
+   * Cтал призером Татарстана на ВсОШ 2019 по информатике.
 3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML Academy](https://img.shields.io/badge/-HTML_Academy-302683?logo=htmlacademy&style=plastic), изучив на чудесном уровне ![HTML](https://img.shields.io/badge/-HTML-353535?logo=html5&style=plastic), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=plastic), ![SVG](https://img.shields.io/badge/-SVG-353535?logo=svg&style=plastic) и нативный ![JavaScript](https://img.shields.io/badge/-JS-353535?logo=javascript&style=plastic)
 4) Затем я освоил огромный курс по ![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react&style=plastic) на канале ![It-kamasutra](https://img.shields.io/badge/-It_kamasutra-d00?logo=youtube&style=plastic).
 5) * В настоящее я тружусь как бекэнд разработчик в стартапе моей команды, пишу к нему `REST-Api`.
@@ -19,9 +19,8 @@ __Языки и технологии__:
 ![Git](https://img.shields.io/badge/-Git-353535?logo=git) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 
 __Технологии JS__:  
-![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex) 
-![NodeJS](https://img.shields.io/badge/-NodeJS-764ABC?logo=nodejs) ![Gulp](https://img.shields.io/badge/-Gulp-353535?logo=gulp) 
-![Webpack](https://img.shields.io/badge/-Webpack-353535?logo=webpack)
+![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex))
+![Gulp](https://img.shields.io/badge/-Gulp-353535?logo=gulp) ![Webpack](https://img.shields.io/badge/-Webpack-353535?logo=webpack)
 
 __Технологии python__:  
 ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask) ![PyQt](https://img.shields.io/badge/-PyQt-353535?logo=qt) BeautifulSoup, SQLAlchemy  
