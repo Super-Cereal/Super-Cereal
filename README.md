@@ -10,7 +10,7 @@
 
 ## Мой путь как программиста
 
-1. Познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex&style=plastic). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `RESTapi`. Меня затянула бекэнд разработка на ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask&style=plastic)
+1. Познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex&style=plastic). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `RESTful API`. Меня затянула бекэнд разработка на ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask&style=plastic)
 
 2. Побывал на программе Сириус.Регионы 2019, изучив там алгоритмы
 
