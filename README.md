@@ -27,9 +27,9 @@
 
 ## Контакты
 
-**telegram** -- t.me/SuperCerealDev
-**vk** -- vk.com/supercereal
-**email** -- egor.kuch@yandex.ru
+**telegram**: t.me/SuperCerealDev  
+**vk**: vk.com/supercereal  
+**email**: egor.kuch@yandex.ru  
 
 <!--
 **Super-Cereal/Super-Cereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
