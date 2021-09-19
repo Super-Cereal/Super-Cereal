@@ -27,7 +27,7 @@
 *В скобках указаны использованные в процессе разработки технологии*
 
 #### Фронтенд
-* [webpack-typescript-boilerplate](https://github.com/Super-Cereal/webpack-typscript-boilerplate) универсальная легкомодифицируемая архитектура, с которой можно начать писать любое веб-приложение, будь то фронтенд, бекэнд или просто библиотека (webpack, typescript, eslint, prettier, husky, lint-staged)
+* [**webpack-typescript-boilerplate**](https://github.com/Super-Cereal/webpack-typscript-boilerplate) универсальная легкомодифицируемая архитектура, с которой можно начать писать любое веб-приложение, будь то фронтенд, бекэнд или просто библиотека (webpack, typescript, eslint, prettier, husky, lint-staged)
 * [**IDC-task-3**](https://github.com/Super-Cereal/IDC-task-3) модифицированный проект по заданиям Яндекс.ШРИ 2021; Сайт, визуализирующий статистику некоторого коллектива за заданный промежуток времени (js + ts + rxjs + sass)  
 * [**todo-React**](https://github.com/Super-Cereal/todo-React) Приложение-сайт, позволяющее составлять списки своих обязанностей или занятий на определенные даты (React.js + redux + sass)
 
