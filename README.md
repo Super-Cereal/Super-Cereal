@@ -41,7 +41,7 @@
 
 **telegram**: t.me/SuperCerealDev  
 **vk**: vk.com/supercereal  
-**email**: egor.kuch@yandex.ru  
+**email**: bifrost.step@gmail.com
 
 <!--
 **Super-Cereal/Super-Cereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
