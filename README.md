@@ -2,13 +2,25 @@
 
 Привет, меня зовут Егор, я разработчик интерфесов  
 
-### Мой путь как программиста
-1) * Впервые я познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex&style=plastic). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `api`. Но самое главное я научился бекэнд разработке на ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask&style=plastic)
-   * Побывал на программе Сириус.Регионы 2019, изучив там алгоритмы.
-   * Cтал призером Татарстана на ВсОШ 2019 по информатике.
-3) Сразу после Я.Лицея я прошел все интерактивные курсы на ![HTML Academy](https://img.shields.io/badge/-HTML_Academy-302683?logo=htmlacademy&style=plastic), изучив на чудесном уровне ![HTML](https://img.shields.io/badge/-HTML-353535?logo=html5&style=plastic), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=plastic), ![SVG](https://img.shields.io/badge/-SVG-353535?logo=svg&style=plastic) и нативный ![JavaScript](https://img.shields.io/badge/-JS-353535?logo=javascript&style=plastic)
-4) Затем я освоил огромный курс по ![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react&style=plastic) на канале ![It-kamasutra](https://img.shields.io/badge/-It_kamasutra-d00?logo=youtube&style=plastic).
-5) Летом 2021 я прошел ![Школу разработки интерфейсов Яндекса](https://img.shields.io/badge/-Школу_разработки_интерфейсов-ff0000?logo=yandex&style=plastic), где перенимал опыт топ-разработчиков Яндекса и работающих со мной специалистов
+## Владею этими технологиями
+* ReactJS, nodeJS, typescript
+* webpack, eslint, prettier, husky, lint-staged
+* html, css, sass, svg
+* python, flask
+
+## Мой путь как программиста
+
+1. Познакомился с программированием в ![Yandex.Liceum](https://img.shields.io/badge/-Yandex.Liceum-ff0000?logo=yandex&style=plastic). Выпустившись из него в 2019 году как лучший ученик города, я успел поработать над системными интерфейсами, написать игру, создать свое `RESTapi`. Меня затянула бекэнд разработка на ![FLASK](https://img.shields.io/badge/-FLASK-000000?logo=flask&style=plastic)
+
+2. Побывал на программе Сириус.Регионы 2019, изучив там алгоритмы
+
+3. Cтал призером Татарстана на ВсОШ 2019 по информатике
+
+4. Прошел все интерактивные курсы на ![HTML Academy](https://img.shields.io/badge/-HTML_Academy-302683?logo=htmlacademy&style=plastic), изучив на чудесном уровне ![HTML](https://img.shields.io/badge/-HTML-353535?logo=html5&style=plastic), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=plastic), ![SVG](https://img.shields.io/badge/-SVG-353535?logo=svg&style=plastic) и нативный ![JavaScript](https://img.shields.io/badge/-JS-353535?logo=javascript&style=plastic)
+
+5. Освоил огромный курс по ![ReactJS](https://img.shields.io/badge/-ReactJS-353535?logo=react&style=plastic) на канале ![It-kamasutra](https://img.shields.io/badge/-It_kamasutra-d00?logo=youtube&style=plastic)
+
+6. Летом 2021 я прошел ![Школу разработки интерфейсов Яндекса](https://img.shields.io/badge/-Школу_разработки_интерфейсов-ff0000?logo=yandex&style=plastic), где перенимал опыт топ-разработчиков Яндекса и работающих со мной специалистов
 
 ## Краткий экскурс по проектам
 
