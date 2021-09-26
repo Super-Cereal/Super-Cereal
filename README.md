@@ -4,7 +4,7 @@
 
 ## Владею этими технологиями
 
-* **JS**: typescript, ReactJS, nodeJS, redux
+* **JS**: Typescript, ReactJS, NodeJS, Redux, RxJs
 * **Инфраструктура**: webpack, eslint, prettier, husky, lint-staged, tsconfig
 * **Верстка**: html, JSX, css, module-css, sass, svg
 * **Python**: python, flask, jinja2, numPy
