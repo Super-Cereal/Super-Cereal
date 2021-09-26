@@ -3,10 +3,11 @@
 Привет, меня зовут Егор, я разработчик интерфесов  
 
 ## Владею этими технологиями
-* ReactJS, nodeJS, typescript
-* webpack, eslint, prettier, husky, lint-staged
-* html, css, sass, svg
-* python, flask
+
+* JS: typescript, ReactJS, nodeJS, redux
+* Инфраструктура: webpack, eslint, prettier, husky, lint-staged, tsconfig
+* Верстка: html, JSX, css, module-css, sass, svg
+* Python: python, flask, jinja2, numPy
 
 ## Мой путь как программиста
 
