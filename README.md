@@ -4,10 +4,10 @@
 
 ## Владею этими технологиями
 
-* JS: typescript, ReactJS, nodeJS, redux
-* Инфраструктура: webpack, eslint, prettier, husky, lint-staged, tsconfig
-* Верстка: html, JSX, css, module-css, sass, svg
-* Python: python, flask, jinja2, numPy
+* **JS**: typescript, ReactJS, nodeJS, redux
+* **Инфраструктура**: webpack, eslint, prettier, husky, lint-staged, tsconfig
+* **Верстка**: html, JSX, css, module-css, sass, svg
+* **Python**: python, flask, jinja2, numPy
 
 ## Мой путь как программиста
 
