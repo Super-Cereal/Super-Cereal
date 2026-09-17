@@ -1,7 +1,7 @@
 # Кучинский Егор
 **Frontend - разработчик**
 
-**LinkedIn:** Egor Kuchinskii   
+**LinkedIn:** [Egor Kuchinskii](https://www.linkedin.com/in/egor-kuchinskii/)   
 **WhatsUp:** +7 (937) 570-30-57  
 **Telegram:** @SuperCerealDev  
 **Email:** sssuper.cereal@gmail.com  
